@@ -1,0 +1,1 @@
+This is how we can write in a file! Appending a text using  Appending a text using  If we use with keyword, we do not have to use close function
